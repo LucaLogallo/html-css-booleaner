@@ -43,7 +43,6 @@ main{
 
 .immagini p{
   font-size: 10px;
-  margin-top: 1px;
 }
 
 .highlight{
@@ -64,7 +63,6 @@ th{
 }
 
 tr{
-  height: 70px;
   background-color:#b1e5f2 ;
 }
 
@@ -108,4 +106,12 @@ table{
 .item{
   color: white;
   font-size: 35px;
+}
+
+section{
+  margin-top: 20px;
+}
+footer{
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

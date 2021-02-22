@@ -1,3 +1,8 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 header{
   background-color: #4ea0ff;
   height: 80px;
@@ -62,11 +67,13 @@ tr{
   height: 70px;
   background-color:#b1e5f2 ;
 }
+
 td{
   width: auto;
   text-align: left;
   vertical-align: middle;
 }
+
 tr:nth-child(2){
   background-color: white;
 }
@@ -78,22 +85,26 @@ th:nth-child(3){
 table{
   border-collapse: collapse;
 }
+
 #grigio2{
   color: grey;
   font-size: 30px;
 }
+
 #foot1{
   height: 200px;
   width: 300px;
   background-image: url("../img/monitor.jpg");
   margin-top: 5px;
 }
+
 #foot2{
   height: 200px;
   width: 300px;
   background-image: url("../img/graph.jpg");
   margin-top: 10px;
 }
+
 .item{
   color: white;
   font-size: 35px;

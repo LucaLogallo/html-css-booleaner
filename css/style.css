@@ -1,0 +1,101 @@
+header{
+  background-color: #4ea0ff;
+  height: 80px;
+  width: 100%;
+  background-image: url("../img/pattern.png");
+  background-size: 300px;
+  /* background-repeat: repeat-x; */
+}
+
+.logo{
+  height: 60%;
+  width: 85%;
+  margin: auto;
+}
+
+.logo img{
+  height: 100%;
+  margin-top: 30px;
+}
+
+main{
+  width: 85%;
+  margin: auto;
+}
+
+#grigio{
+  color: grey;
+}
+
+#blu{
+  color:#4ea0ff;
+}
+
+#date{
+  color:gray;
+  font-size: 10px;
+}
+
+.immagini p{
+  font-size: 10px;
+  margin-top: 1px;
+}
+
+.highlight{
+  background-color: #ffff00;
+}
+
+ul{
+  padding-inline-start: 20px;
+}
+
+th{
+  height: 5px;
+  background-color:#20a9e5 ;
+  color: white;
+  padding: 3px;
+  border-bottom: none;
+  text-align: left;
+}
+
+tr{
+  height: 70px;
+  background-color:#b1e5f2 ;
+}
+td{
+  width: auto;
+  text-align: left;
+  vertical-align: middle;
+}
+tr:nth-child(2){
+  background-color: white;
+}
+
+th:nth-child(3){
+  width: 50%;
+}
+
+table{
+  border-collapse: collapse;
+}
+/* 
+main{
+  margin-left: 15px;
+
+}
+
+section h2{
+  color: #CF8A04;
+}
+
+.item h3{
+  font-style: italic;
+}
+
+hr{
+  border-color: #CF8A04;
+}
+
+footer p{
+  font-size: 12px;
+} */

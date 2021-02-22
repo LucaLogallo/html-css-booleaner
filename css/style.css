@@ -78,24 +78,23 @@ th:nth-child(3){
 table{
   border-collapse: collapse;
 }
-/* 
-main{
-  margin-left: 15px;
-
+#grigio2{
+  color: grey;
+  font-size: 30px;
 }
-
-section h2{
-  color: #CF8A04;
+#foot1{
+  height: 200px;
+  width: 300px;
+  background-image: url("../img/monitor.jpg");
+  margin-top: 5px;
 }
-
-.item h3{
-  font-style: italic;
+#foot2{
+  height: 200px;
+  width: 300px;
+  background-image: url("../img/graph.jpg");
+  margin-top: 10px;
 }
-
-hr{
-  border-color: #CF8A04;
+.item{
+  color: white;
+  font-size: 35px;
 }
-
-footer p{
-  font-size: 12px;
-} */
